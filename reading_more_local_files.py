@@ -1,11 +1,16 @@
 import os
 import shutil
 import pandas as pd
+import xlrd
+import csv
 path = '/home/anton/Документы/python/input/Test 2/'
 path2 = '/home/anton/Документы/python/input/'
 formats=[]
 array_on_formats=[]
 full_names_by_formats=[]
+log_file=open('write.txt','w')
+test_file=open('test_col.txt', 'w')
+colx=1
 for file_name in os.listdir(path):
 	# Определение уникальных форматов файлов
 	tmp_var = os.path.splitext(file_name)[1].replace('.','')
@@ -35,8 +40,13 @@ for file_open in formats:
 			full_name=os.path.join(dis_xls,file)
 			full_names_by_formats.append(full_name)
 		for start_read in full_names_by_formats:
-			Data=(pd.read_excel(io=start_read,sheet_name=None))
-			print(Data)
-			Data.to_csv('start_read.csv')
-
-		
+			Data=xlrd.open_workbook(start_read, formatting_info=True)
+			sheet=Data.sheet_by_index(0)
+			test_file.write(str(sheet.col(1))+ '||'+ '\n')
+			for rownum in range(sheet.nrows):
+				row=sheet.row_values(rownum)
+				for cell in row:
+					print(cell)
+					log_file.write(str(cell))
+log_file.close()
+test_file.close()
