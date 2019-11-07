@@ -1,0 +1,921 @@
+/home/anton/Документы/python/input/xls/Инфа по элитным семенам из ФБ на 07.10.2015.xls
+/home/anton/Документы/python/input/xls/Многолетка_на сайт.xls
+/home/anton/Документы/python/input/xls/064Ф+077R от 21.03.2018 Инв. раст. до 8, пр 2013.xls
+/home/anton/Документы/python/input/xls/реестр_23.04 (1).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 05.06.2017.xls
+/home/anton/Документы/python/input/xls/157Ф+164R от 28 апреля 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/11.08_реестр.xls
+/home/anton/Документы/python/input/xls/Размещение 294Ф + 314R от 19.06.2018 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 07.08.2017.xls
+/home/anton/Документы/python/input/xls/478Ф+600R+601-8_12.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТЫ 2015 ФБ на сайт.xls
+/home/anton/Документы/python/input/xls/346 Ф Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/Информация ОБ-СЖФ 2017 г  Караваев.xls
+/home/anton/Документы/python/input/xls/Реестр_растениев_17.05.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ (R) 11.10.17.xls
+/home/anton/Документы/python/input/xls/Реестр_63_22.04.2019 С СЕНТ.xls
+/home/anton/Документы/python/input/xls/На сайт от 04 12 (ФБ).xls
+/home/anton/Документы/python/input/xls/овца.xls
+/home/anton/Документы/python/input/xls/429Ф+510R от 06 12 2017 Инв  жив  до 8 проч 2013.xls
+/home/anton/Документы/python/input/xls/379Ф+437R от 23.10.2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/329Ф+493 от 22.08.16 (мол.скот).xls
+/home/anton/Документы/python/input/xls/109Ф+116R от 27 марта 2017 Инв. раст. до 10, проч+.xls
+/home/anton/Документы/python/input/xls/Копия февраль 2016 на сайт ФБ.xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТ_1.xls
+/home/anton/Документы/python/input/xls/перечень молоко сентябрь 2016[1].xls
+/home/anton/Документы/python/input/xls/Реестр № 431 Ф от 27 декабря 2016 Инв. раст. до 10, прочие+.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во+ перераб) 21 06 2017.xls
+/home/anton/Документы/python/input/xls/Инфа по элитным семенам из ФБ на 02.07.2015.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Петров Вал на сайт.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 06.07.2017.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 20.10.2017.xls
+/home/anton/Документы/python/input/xls/Информация Алимов декабрь.xls
+/home/anton/Документы/python/input/xls/Реестр № 684 R от 23 декабря 2016 Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/12.11_реестр_страх_жив.xls
+/home/anton/Документы/python/input/xls/424 Ф от 09.12.2016.xls
+/home/anton/Документы/python/input/xls/051Ф+064R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/Реестр № 685 R от 23 декабря 2016 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Реестр_Эл_5.xls
+/home/anton/Документы/python/input/xls/Реестр Эл 2.xls
+/home/anton/Документы/python/input/xls/145Ф+147R от 18 апреля 2017 Инв.раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/процент.xls
+/home/anton/Документы/python/input/xls/333Ф+376R от 15 сентября 2017 Инв  раст  до 8 проч (2013).xls
+/home/anton/Документы/python/input/xls/396Ф+473R+481-8 от 26.10.2018 Инв жив до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/267 Ф Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/на сайт июнь 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/212Ф+230R от 15 июня 2017 Инв. раст. до 10, проч+.xls
+/home/anton/Документы/python/input/xls/214со Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 09 06 2017.xls
+/home/anton/Документы/python/input/xls/Размещение 296Ф + 316R от 19.06.2018 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/Рр 120 от 09.04.2018.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта 71Ф от 15.04.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Реестр_животн_30.03.xls
+/home/anton/Документы/python/input/xls/июль_2015_Морванов.xls
+/home/anton/Документы/python/input/xls/Реестр_66_22.04.2019.xls
+/home/anton/Документы/python/input/xls/перечень_481Ф_3.xls
+/home/anton/Документы/python/input/xls/16.10 растениеводство 1.xls
+/home/anton/Документы/python/input/xls/275Ф+295R от 21 июля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/394Ф+466R от 09 11 2017 Инв  жив  до 8 проч (2).xls
+/home/anton/Документы/python/input/xls/417Ф+488R от 22 11 2017 Инв  жив до15 МОЛОКО.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 6.12.2017.xls
+/home/anton/Документы/python/input/xls/171Ф+175R от 19.04.2018 Инв. жив. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/377 от 12.07.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/110Ф+117R от 27 марта 2017 Инв. жив. до 8, проч+.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ(R).xls
+/home/anton/Документы/python/input/xls/Июль 2016 НА ПОРТАЛ.xls
+/home/anton/Документы/python/input/xls/ТолькоR=451R Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/593 R от 17 октября 2016 Инв. жив. до 15, МОЛОЧН скот.xls
+/home/anton/Документы/python/input/xls/перечень 438_4.xls
+/home/anton/Документы/python/input/xls/229 от 23.05.16  ОБ(молКРС).xls
+/home/anton/Документы/python/input/xls/Реестр_24.04.xls
+/home/anton/Документы/python/input/xls/Информация от 27.03.18.xls
+/home/anton/Документы/python/input/xls/479Ф+602R+603-8_12.12.18_Инв.жив.xls
+/home/anton/Документы/python/input/xls/26.11_реестр.xls
+/home/anton/Документы/python/input/xls/Информация сайт ООО Сельское достояние.xls
+/home/anton/Документы/python/input/xls/504Ф+620R_17.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/Реестр № 689-8 от 23 декабря 2016 Инв. раст. до 8, проч (2013) АК Волжский доп 7049,0.xls
+/home/anton/Документы/python/input/xls/286Ф_4.xls
+/home/anton/Документы/python/input/xls/220с8 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/Инфо р-р 506 от 25.08.16 Инв. жив. до 8, свин.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 377 ф от 06.10.16 Инв. мяс..xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Родинское СП Еланского на сайт.xls
+/home/anton/Документы/python/input/xls/373Ф+433R от 19.10.2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/плем_май.xls
+/home/anton/Документы/python/input/xls/Размещение 302Ф + 327R от 18.08..2017 Инв.жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Информация о получателях СНТ 27.11.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта к р-ру316Ф-348R от 07 09 2017 (раст).xls
+/home/anton/Документы/python/input/xls/перечень_280_растОБ_5.xls
+/home/anton/Документы/python/input/xls/199 Инв. жив. до 8, свинокомплексы ТопАгро.xls
+/home/anton/Документы/python/input/xls/ОСБ_май_2016.xls
+/home/anton/Документы/python/input/xls/На сайт от 07 11 (ФБ).xls
+/home/anton/Документы/python/input/xls/86Ф+78_от_13.05.2019.xls
+/home/anton/Документы/python/input/xls/059Ф+072R от 19.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/207 Ф Инв. жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/216с8 Инв. жив. до 15, МЯСН КРС.xls
+/home/anton/Документы/python/input/xls/510  Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/35(8)_22.03.2019_Инв. раст.xls
+/home/anton/Документы/python/input/xls/393с8 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Информация Кухмастер.xls
+/home/anton/Документы/python/input/xls/Реестр 17.11.2015.xls
+/home/anton/Документы/python/input/xls/166Ф+174R от 11 мая 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/323Ф_1[1].xls
+/home/anton/Документы/python/input/xls/информация на сайтФБ-НФ 2017 г  3.xls
+/home/anton/Документы/python/input/xls/перечень_280_растОБ_1.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 13.12.2017.xls
+/home/anton/Документы/python/input/xls/Информация от 13.02.2019.xls
+/home/anton/Документы/python/input/xls/403Ф+475R от 20 11 2017 Инв  раст до8 проч (2013).xls
+/home/anton/Документы/python/input/xls/Информация ФБ-СЖФ 2017 г  Караваев.xls
+/home/anton/Документы/python/input/xls/Реестр_08.08.xls
+/home/anton/Документы/python/input/xls/264 Ф Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/На сайт от 07 06 2017.xls
+/home/anton/Документы/python/input/xls/озимка_15.xls
+/home/anton/Документы/python/input/xls/Информация от 18 09 2017.xls
+/home/anton/Документы/python/input/xls/Информация о получателях субсидии р-р 189Ф196R.xls
+/home/anton/Документы/python/input/xls/60Ф_56.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 Урюпинский.xls
+/home/anton/Документы/python/input/xls/065Ф+078R от 21.03.2018 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/Реестр 24.11.2015.xls
+/home/anton/Документы/python/input/xls/484-8 от 26.10.2018 Инв Кр за 2016 год .xls
+/home/anton/Документы/python/input/xls/Размещение 293Ф + 313R от 19.06.2018 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/274с8 Инв. жив. до 15, МЯСН скот.xls
+/home/anton/Документы/python/input/xls/293 Ф Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Таблица на сайт.xls
+/home/anton/Документы/python/input/xls/Информация от 30.05.2017.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ(R) 09.11.17.xls
+/home/anton/Документы/python/input/xls/Получатели субсидий по _ст. МФХ_РСХБ_период ИЮЛЬ 2014.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 22.04.2015).xls
+/home/anton/Документы/python/input/xls/Информация ООО Сады Придинья декабрь.xls
+/home/anton/Документы/python/input/xls/324Ф+355R от 08 сентября 2017 Инв  жив  до 15 МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 39Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/Размещение 199Ф + 209R от 10.05.2018 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/182Ф+188R от 20.04.2018 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/март 2016 ЛПХ ФБ на сайт.xls
+/home/anton/Документы/python/input/xls/Руднянское гор. госеления  на сайт.xls
+/home/anton/Документы/python/input/xls/313Ф+463 от 15.08.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/332Ф+375R от 15 сентября 2017 Инв  жив  до 8 свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/332с8 Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/419Ф+490R от 22 11 2017 Инв  раст до8 проч 2013.xls
+/home/anton/Документы/python/input/xls/410 Ф от 15 ноября 2016 Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/На сайт ФБ+ОБ от 19.06.xls
+/home/anton/Документы/python/input/xls/99ф + 181 от 25.04.16.xls
+/home/anton/Документы/python/input/xls/р-р №370 от 05.07.16 молоко 242 июнь 2016 ап ОК.xls
+/home/anton/Документы/python/input/xls/Размещение на сайт.xls
+/home/anton/Документы/python/input/xls/292 Ф Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 16.05.2017.xls
+/home/anton/Документы/python/input/xls/16.05_молспец.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 06 10 2017.xls
+/home/anton/Документы/python/input/xls/27_молспец.xls
+/home/anton/Документы/python/input/xls/358Ф+416R от 10.10.2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 17 11 2017.xls
+/home/anton/Документы/python/input/xls/267Ф+287R от 19 июля 2017 Инв. жив. до 8, свинокомплексы.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ_09.08.xls
+/home/anton/Документы/python/input/xls/265 Ф Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/357Ф+415R от 10.10.2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/95Ф + 175 от 22.04.16 (мол.скот).xls
+/home/anton/Документы/python/input/xls/159Ф+166R от 28 апреля 2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/208 Ф Инв. молоко , 2012.xls
+/home/anton/Документы/python/input/xls/информ по 300.xls
+/home/anton/Документы/python/input/xls/Информация от 08 09 2017.xls
+/home/anton/Документы/python/input/xls/Размещение 300Ф + 325R от 18.08.2017 Инв.раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/октябрь_2014_21.xls
+/home/anton/Документы/python/input/xls/426Ф_26.xls
+/home/anton/Документы/python/input/xls/Копия Информация племка молочная Дополнительный реестр.xls
+/home/anton/Документы/python/input/xls/реестр_страх_13.07.xls
+/home/anton/Документы/python/input/xls/276Ф+296R от 21 июля 2017 Инв. жив. до 15, МОЛОКО ПЗК Ленина.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Терновское СП Камышинский на сайт.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР получателей Петрунинское сп.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (жив-во) 06 10 2017.xls
+/home/anton/Документы/python/input/xls/656 R от 06 декабря 2016 Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/НФ_2.xls
+/home/anton/Документы/python/input/xls/Информация_25.11.xls
+/home/anton/Документы/python/input/xls/2  Реестр племка мясная.xls
+/home/anton/Документы/python/input/xls/388со Инв. жив. до 8, МЯСН.xls
+/home/anton/Документы/python/input/xls/187Ф+201R от 24 мая 2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Реестр № 675 R от 22 декабря 2016 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/прямые_затраты.xls
+/home/anton/Документы/python/input/xls/Копия март 2016 ЛПХ ОБ на сайт.xls
+/home/anton/Документы/python/input/xls/266 Ф Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ 2.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 14.04.2017.xls
+/home/anton/Документы/python/input/xls/061Ф+074R от 21.03.2018 Инв. раст. до 8, пр 2013.xls
+/home/anton/Документы/python/input/xls/308 Ф Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Реестр_25.04.xls
+/home/anton/Документы/python/input/xls/Реестр_04.08.xls
+/home/anton/Документы/python/input/xls/ТолькоR 441_1R Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Информация Сады Придонья Лидер ВолгоДонАгро Донское от 15 11 2017.xls
+/home/anton/Документы/python/input/xls/047Ф+060R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/056Ф+069R от 16.03.2018 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/405_раст.xls
+/home/anton/Документы/python/input/xls/на сайт Информация племка2016.xls
+/home/anton/Документы/python/input/xls/438Ф + 518R от 11 12 2017 Инв жив  до 8 свинокомплексы.xls
+/home/anton/Документы/python/input/xls/381Ф+439R от 23.10.2017 Инв. жив. до 15, МОЛОКО ПЗК.xls
+/home/anton/Документы/python/input/xls/18.7_молспец.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Еланское городское поселение на сайт.xls
+/home/anton/Документы/python/input/xls/НА САЙТ СЕНТЯБРЬ 2016.xls
+/home/anton/Документы/python/input/xls/реестр_17.10.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (жив-во) 06.10.2017.xls
+/home/anton/Документы/python/input/xls/ТолькоR=452R Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/28.11_реестр_альтер.xls
+/home/anton/Документы/python/input/xls/ОБ (8) 1.xls
+/home/anton/Документы/python/input/xls/168Ф+176R от 11 мая 2017 Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/Размещение 221Ф+241R от 20 июня 2017 Инв  раст  до 8 прочие (2013).xls
+/home/anton/Документы/python/input/xls/11.08_реестр_МС.xls
+/home/anton/Документы/python/input/xls/Информация для сайта (жив-во) к реестру 328A-359R от 08 09 2017.xls
+/home/anton/Документы/python/input/xls/85Ф+77_от_13.05.2019.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ 11.10.xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТЫ_09_ФБ.xls
+/home/anton/Документы/python/input/xls/ОБ 8.xls
+/home/anton/Документы/python/input/xls/217с8 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/62Ф_58.xls
+/home/anton/Документы/python/input/xls/мол_спец_24.01.xls
+/home/anton/Документы/python/input/xls/616со от 26 октября 2016 Инв. жив. до8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/р-р 425Ф-429Ф - 429Ф-519R.xls
+/home/anton/Документы/python/input/xls/Информация 13_10.xls
+/home/anton/Документы/python/input/xls/188Ф+202R от 24 мая 2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/Перечень получателей 22.06.xls
+/home/anton/Документы/python/input/xls/Август НА САЙТ.xls
+/home/anton/Документы/python/input/xls/055Ф+068R от 16.03.2018 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/р-р 401Ф-491R - 423Ф-513R.xls
+/home/anton/Документы/python/input/xls/Реестр_корма.xls
+/home/anton/Документы/python/input/xls/404Ф+476R от 20 11 2017 Инв  жив до8 проч (2013).xls
+/home/anton/Документы/python/input/xls/552Ф_перер.xls
+/home/anton/Документы/python/input/xls/174Ф+179R от 20.04.2018 Инв. жив до 8, проч 2013+.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 44Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТ_ОБ_2.xls
+/home/anton/Документы/python/input/xls/10.04_ЛПХ.xls
+/home/anton/Документы/python/input/xls/Информация сайт ООО ЮЗР 1.xls
+/home/anton/Документы/python/input/xls/359Ф+417R от 10.10.2017 Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/199 Инв. жив. до 8, свинокомплексы ТопАгро[1].xls
+/home/anton/Документы/python/input/xls/425Ф+506R от 06.12.2017 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/25-8_15.03.19_Инв.жив.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 320 ф от 17.08.16 Инв.жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 20.07.2017.xls
+/home/anton/Документы/python/input/xls/Реестр 13.11.2015.xls
+/home/anton/Документы/python/input/xls/335Ф+378R от 15 сентября 2017 Инв  жив  до 8 проч.xls
+/home/anton/Документы/python/input/xls/раст 8-ка информ.xls
+/home/anton/Документы/python/input/xls/303 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр получателейСуровикинский   Ближнеосиновский.xls
+/home/anton/Документы/python/input/xls/Размещение 451 от 04.10.18 - молоко.xls
+/home/anton/Документы/python/input/xls/380Ф+438R от 23.10.2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/Информация Зао Агрофирма Восток.xls
+/home/anton/Документы/python/input/xls/Информация_молспецы.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 18.07.2017.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 10.07.2017.xls
+/home/anton/Документы/python/input/xls/раст 8-ка информ 1.xls
+/home/anton/Документы/python/input/xls/Информация по реестру 375 от 10.08.2018 Орошаемое.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Терновское на сайт.xls
+/home/anton/Документы/python/input/xls/Инфа по элитным семенам на 12.05.2015.xls
+/home/anton/Документы/python/input/xls/перечень_256_растОБ_4.xls
+/home/anton/Документы/python/input/xls/ставка.xls
+/home/anton/Документы/python/input/xls/Размещение 449Ф + 530R от 18.12.2017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/24_восток.xls
+/home/anton/Документы/python/input/xls/046Ф+059R от 15.03.2018 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Размещение 446Ф+538R+539-8+540-8.xls
+/home/anton/Документы/python/input/xls/196Ф+211R от 26 мая 2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/292_1Ф Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 123Ф.xls
+/home/anton/Документы/python/input/xls/530со Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/16.05_молспец[1].xls
+/home/anton/Документы/python/input/xls/33(8)_22.03.2019_Инв. жив.xls
+/home/anton/Документы/python/input/xls/437Ф + 517R от 11 12 2017 Инв  раст  до 8 прочие (2013).xls
+/home/anton/Документы/python/input/xls/144Ф+146R от 18 апреля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/181Ф + 261 от 27.05.16 ОБ(раст-во).xls
+/home/anton/Документы/python/input/xls/перечень_285_растОБ_2.xls
+/home/anton/Документы/python/input/xls/февраль 2015 ОБ на сайт.xls
+/home/anton/Документы/python/input/xls/043Ф+056R от 15.03.2018 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/187 от 29.04.16 ОБ(жив).xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Агрокомбинат Михайловский на сайт.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 09 11 2017.xls
+/home/anton/Документы/python/input/xls/155Ф+162R от 28 апреля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/№ 301 от 24 июля 2017 Инв. жив. до 8.xls
+/home/anton/Документы/python/input/xls/407Ф+479R от 20 11 2017 Инв  жив до15 МОЛОКО.xls
+/home/anton/Документы/python/input/xls/392со Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/162Ф+170R от 10 мая 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/ноябрь 2015 ОБ на сайт.xls
+/home/anton/Документы/python/input/xls/РЕЕСТРЫ НА САЙТ - ОВОЩИ 2016 год.xls
+/home/anton/Документы/python/input/xls/1 Информация Соловьев декабрь.xls
+/home/anton/Документы/python/input/xls/1 Информация Серова декабрь.xls
+/home/anton/Документы/python/input/xls/287 Ф Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/323Ф+354R от 08 сентября 2017 Инв  раст  до 10 проч.xls
+/home/anton/Документы/python/input/xls/Племка_18.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 38Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 491 от 19.08.16 Инв.раст. до 8, проч. 2013.xls
+/home/anton/Документы/python/input/xls/на сайт информация о получателях субсидии РПЖ 241.xls
+/home/anton/Документы/python/input/xls/048Ф+061R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ 20.06.xls
+/home/anton/Документы/python/input/xls/04.07.xls
+/home/anton/Документы/python/input/xls/348 Ф Инв. жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/информация на сайт ОБ-НФ 2017 г  3.xls
+/home/anton/Документы/python/input/xls/321Ф+352R от 08 сентября 2017 Инв  раст  до 8 проч (2013).xls
+/home/anton/Документы/python/input/xls/Информация для сайта331Ф-374R от 14 09 2017 (раст-во).xls
+/home/anton/Документы/python/input/xls/Инфо р-р 475 от 17.08.16 Инв. жив. до 8, свин.xls
+/home/anton/Документы/python/input/xls/Реестр № 430 Ф от 27 декабря 2016 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТ_21.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР 1 2016 Сосновское  на сайт.xls
+/home/anton/Документы/python/input/xls/ТолькоR=453R Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/185Ф+199R от 24 мая 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/март 2016 на сайт ОБ.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ (R) Быков О С.xls
+/home/anton/Документы/python/input/xls/264Ф+284R от 19 июля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/268с8 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТ.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Таловское СП Еланского на сайт.xls
+/home/anton/Документы/python/input/xls/Получатели субсидий по _ст.МФХ_РСХБ_период_ИЮНЬ 2016.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 18.05.2015).xls
+/home/anton/Документы/python/input/xls/428Ф+509R от 06 12 2017 Инв  жив  до 8 проч.xls
+/home/anton/Документы/python/input/xls/31.07_реестр.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 653 от 30.11.16 Инв. жив. до 8, свин.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 17.10.2017.xls
+/home/anton/Документы/python/input/xls/27-8_15.03.19 Инв.раст.xls
+/home/anton/Документы/python/input/xls/24_суд_к.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 13.07.2017.xls
+/home/anton/Документы/python/input/xls/ТолькоR 439_1R Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/КРС_лизинг.xls
+/home/anton/Документы/python/input/xls/Копия январь на сайт 2016 ФБ.xls
+/home/anton/Документы/python/input/xls/перечень 387Ф_5.xls
+/home/anton/Документы/python/input/xls/419(8) от 11 октября 2017 Инв. жив. до 8, свинокомплексы ТОП.xls
+/home/anton/Документы/python/input/xls/март 2016 ФБ на сайт.xls
+/home/anton/Документы/python/input/xls/357-8 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/082Ф+085R от 20 марта 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/ОБ_08.xls
+/home/anton/Документы/python/input/xls/418с8 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 15.08.2017.xls
+/home/anton/Документы/python/input/xls/30.10_лидер.xls
+/home/anton/Документы/python/input/xls/сентябрь_15_Мусаев.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) раст+перераб 15 05.xls
+/home/anton/Документы/python/input/xls/Размещение 295Ф + 315R от 19.06.2018 Инв.xls
+/home/anton/Документы/python/input/xls/мол_спец_31.07.xls
+/home/anton/Документы/python/input/xls/481Ф+606R+607-8_13.12.18_Инв.раст_ЗАРЯ.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 323 ф от 18.08.16 Инв.раст. до 10,, проч.xls
+/home/anton/Документы/python/input/xls/Инфа по элитным семенам на 21.07.2015.xls
+/home/anton/Документы/python/input/xls/Реестр № 687-8 от 23 декабря 2016 Инв. жив. до 8,свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/426Ф+507R от 06 12 2017 Инв  раст  до 10 проч.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 420 ф от 17.08.16 Инв. жив. до 8, свин.xls
+/home/anton/Документы/python/input/xls/049Ф+062R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/57Ф.xls
+/home/anton/Документы/python/input/xls/334Ф+377R от 15 сентября 2017 Инв  раст  до 10 проч.xls
+/home/anton/Документы/python/input/xls/Инф для сайта страхование яровые 2015 (к реестру 13.07.2015).xls
+/home/anton/Документы/python/input/xls/26.11_реестр_1.xls
+/home/anton/Документы/python/input/xls/Перечень получателей субсидий по Несвязанной Поддержке _февраль 2015.xls
+/home/anton/Документы/python/input/xls/328Ф + 492 от 22.08.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/281 Ф Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/309 Ф Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Информация ВолгоДонАгро декабрь.xls
+/home/anton/Документы/python/input/xls/210Ф_7.xls
+/home/anton/Документы/python/input/xls/Копия 406Ф+478R от 20 11 2017 Инв  жив до8 свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/112Ф+119R от 27 марта 2017 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/Информация ООО Сады Придинья декабрь 1.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 652 от 28.11.16 Инв. мол..xls
+/home/anton/Документы/python/input/xls/409Ф+481R от 20.11.2017 Инв. раст до8, проч 2013.xls
+/home/anton/Документы/python/input/xls/407 Ф от 09 ноября 2016 Инв. жив. до 15, МЯСН СКОТ.xls
+/home/anton/Документы/python/input/xls/Размещение 542 от 20.12.2017 Инв. жив.xls
+/home/anton/Документы/python/input/xls/РСХБ_ноябрь.xls
+/home/anton/Документы/python/input/xls/406 от 18.07.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/Информация для сайта от 12 09 2017 (раст-во) xls.xls
+/home/anton/Документы/python/input/xls/630 R от 09 ноября 2016 Инв. жив. до 15, МЯСН СКОТ.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 12.07.2017.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Рассветовское на сайт.xls
+/home/anton/Документы/python/input/xls/370Ф+430R от 19.10.2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 23.05.2017.xls
+/home/anton/Документы/python/input/xls/реестр_07.09_1.xls
+/home/anton/Документы/python/input/xls/Размещение 289Ф+311R от 08 августа 2017 Инв.раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/эл_6.xls
+/home/anton/Документы/python/input/xls/МФХ_09.xls
+/home/anton/Документы/python/input/xls/054Ф+067R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Березовское на сайт.xls
+/home/anton/Документы/python/input/xls/Реестр % кредиты 06.07.xls
+/home/anton/Документы/python/input/xls/16.10 Инф-ция для сайта (раст-во).xls
+/home/anton/Документы/python/input/xls/июнь 2016 ФБ на сайт.xls
+/home/anton/Документы/python/input/xls/Реестр № 437 Ф от 27 декабря 2017 Инв. жив. до 8, свинокомп.xls
+/home/anton/Документы/python/input/xls/423 Ф от 06 декабря 2016 Инв. жив. до 15, МЯСН.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 10 11 2017.xls
+/home/anton/Документы/python/input/xls/356_жив.xls
+/home/anton/Документы/python/input/xls/058Ф+071R от 19.03.2018 Инв. жив. до 8, свинокомп.xls
+/home/anton/Документы/python/input/xls/Реестр (рыбоводство) 20.10.2015.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 07.12.2017.xls
+/home/anton/Документы/python/input/xls/480Ф+604R+605-8_13.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/Реестр_40_29.03.19_за2016.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 54Ф, 52 от 15.04.2019.xls
+/home/anton/Документы/python/input/xls/12.03_реестры 40Ф+050R.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 14.08.2017.xls
+/home/anton/Документы/python/input/xls/298 от 14.06.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/Размещение 200Ф + 210R от 10.05.2018 Инв. жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/170Ф+174R от 19.04.2018 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Тростянское Еланский район на сайт.xls
+/home/anton/Документы/python/input/xls/Копия Копия 302Ф (раст-во).xls
+/home/anton/Документы/python/input/xls/Реестр_проценты_09.xls
+/home/anton/Документы/python/input/xls/Размещение 287Ф+309R от 08 августа 2017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/Инфо р-р 419 Ф от 28.11.16 Инв. мол..xls
+/home/anton/Документы/python/input/xls/реестр_55Ф.xls
+/home/anton/Документы/python/input/xls/Размещение 307Ф + 332R от 23.08.2017 Инв.жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Размещение 453Ф + 534R от 18.12.2017 Инв. жив.xls
+/home/anton/Документы/python/input/xls/реестр молоко август 2016.xls
+/home/anton/Документы/python/input/xls/464 от 15.08.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/353_раст.xls
+/home/anton/Документы/python/input/xls/р-р от 21.11.2016(Раст-во).xls
+/home/anton/Документы/python/input/xls/223Ф + 324 от 22.06.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/304 Ф Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/304 Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр_65_22.04.2019.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 07 11 2017.xls
+/home/anton/Документы/python/input/xls/24_степной.xls
+/home/anton/Документы/python/input/xls/36(8)_22.03.2019_Инв. раст.xls
+/home/anton/Документы/python/input/xls/НФ_реестр.xls
+/home/anton/Документы/python/input/xls/1 Информация Хегай С.В..xls
+/home/anton/Документы/python/input/xls/сентябрь 2016 ОСБ на сайт.xls
+/home/anton/Документы/python/input/xls/уточ083Ф+086R от 20 марта 2017 Инв раст  до 10 проч.xls
+/home/anton/Документы/python/input/xls/428со Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/+на сайт молоко 178_1Ф+188_1R от 16.05.2017.xls
+/home/anton/Документы/python/input/xls/№ 143Ф+158R от 16 04..xls
+/home/anton/Документы/python/input/xls/Реестр корма для Молокановой1.xls
+/home/anton/Документы/python/input/xls/146Ф+148R от 18 апреля 2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/365_раст.xls
+/home/anton/Документы/python/input/xls/393Ф+470R+477-8 от 26.10.2018 Инв раст до 10, проч.xls
+/home/anton/Документы/python/input/xls/Информация от 02.06.2017.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 37Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/информация 8ка.xls
+/home/anton/Документы/python/input/xls/р-р 446 от 23.10.17.xls
+/home/anton/Документы/python/input/xls/р-р 443Ф-533R.xls
+/home/anton/Документы/python/input/xls/331с8 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/111Ф+118R от 27 марта 2017 Инв. жив. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/421Ф от 02 12 16 (Раст-во).xls
+/home/anton/Документы/python/input/xls/306 Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Реестр_077Ф_19.04.2019.xls
+/home/anton/Документы/python/input/xls/270с8 Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/372Ф+432R от 19.10.2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/сентябрь_21.xls
+/home/anton/Документы/python/input/xls/Информация сайт ООО Заря 15.11.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта к р-ру от 11.05.2017 (раст).xls
+/home/anton/Документы/python/input/xls/387со Инв. жив. до 15, МЯСН.xls
+/home/anton/Документы/python/input/xls/Реестр № 432 Ф от 27 декабря 2016 Инв. раст. до 8, прочие+.xls
+/home/anton/Документы/python/input/xls/119Ф+126R от 29 марта 2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/045Ф+058R от 15.03.2018 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/154Ф+156R от 25 апреля 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ 3.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) к реестру 12.05.2017.xls
+/home/anton/Документы/python/input/xls/реестр_11.09.xls
+/home/anton/Документы/python/input/xls/424со Инв. раст. до 8, проч (2013)АК Волжский.xls
+/home/anton/Документы/python/input/xls/259 Ф Инв. жив. до15, МЯСН (2013).xls
+/home/anton/Документы/python/input/xls/октябрь_ФБ_06.xls
+/home/anton/Документы/python/input/xls/март 2015 ОБ на сайт.xls
+/home/anton/Документы/python/input/xls/15.05_ЛПХ.xls
+/home/anton/Документы/python/input/xls/228 Ф Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/487Ф+617R+618-8_17.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/Информация от 00.11.2018.xls
+/home/anton/Документы/python/input/xls/219Ф + 315 от 20.06.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/399Ф+487R+488-8 от 29.10.2018 Инв раст до 8, проч (2013) ЗАРЯ.xls
+/home/anton/Документы/python/input/xls/039Ф+049R от 06.03.2018 Инв. до 8, раст (2013).xls
+/home/anton/Документы/python/input/xls/266Ф+286R от 19 июля 2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/272с8 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/494 от 22.08.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/201Ф Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр № 435 Ф от 27 декабря 2016 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/484Ф+612R+613-8_14.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/634 R от 15 ноября 2016 Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/31(8)_22.03.2019_Инв. раст.xls
+/home/anton/Документы/python/input/xls/360Ф+418R от 10.10.2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/247.xls
+/home/anton/Документы/python/input/xls/Размещение 290Ф+312R от 08 августа 2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/342Ф+385R от 21.09.2017 Инв. жив. до 15, МОЛОЧН ПЗК Ленина.xls
+/home/anton/Документы/python/input/xls/395Ф+472R+479-8 от 26.10.2018 Инв жив до 8, свинокомлексы.xls
+/home/anton/Документы/python/input/xls/153Ф+155R от 25 апреля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/РР 328 от 26.06.2018.xls
+/home/anton/Документы/python/input/xls/возврат_19.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта 137 от 15.04.16 (живот-во).xls
+/home/anton/Документы/python/input/xls/Мол_спецы_ 12.03.xls
+/home/anton/Документы/python/input/xls/03.12.2018_реестр.xls
+/home/anton/Документы/python/input/xls/304Ф_3.xls
+/home/anton/Документы/python/input/xls/Размещение 220Ф+240R от 20 июня 2017 Инв  раст  до 8 прочие (2013).xls
+/home/anton/Документы/python/input/xls/инф 04.09.xls
+/home/anton/Документы/python/input/xls/199Ф Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/На сайт 2.xls
+/home/anton/Документы/python/input/xls/415Ф+486R от 22 11 2017 Инв  раст до8 проч 2013.xls
+/home/anton/Документы/python/input/xls/на сайт Реестр ИвановВИ по.xls
+/home/anton/Документы/python/input/xls/416с8 Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Размещение 245Ф+266R от 10 июля 2017 Инв.жив. до 8, прочие (с 2013).xls
+/home/anton/Документы/python/input/xls/473Ф+588R+589-8_07.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 09.10.2017.xls
+/home/anton/Документы/python/input/xls/248Ф_6.xls
+/home/anton/Документы/python/input/xls/Реестр_%_кредиты_09.xls
+/home/anton/Документы/python/input/xls/Размещение 445Ф+536R+537-8 Инв. раст. до 8, проч (2013) (1).xls
+/home/anton/Документы/python/input/xls/053Ф+066R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/113Ф+120R от 27 марта 2017 Инв. жив. до 15, МОЛОКО+.xls
+/home/anton/Документы/python/input/xls/корма_6.xls
+/home/anton/Документы/python/input/xls/041Ф+051R от 12.03.2018 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Инфо р-р 322 ф от 18.08.16 Инв.раст. до 8, проч. 2013.xls
+/home/anton/Документы/python/input/xls/Информация о получателях субсидии р-р 188Ф195R.xls
+/home/anton/Документы/python/input/xls/январь на сайт 2016 ОБ.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 21 11 2017.xls
+/home/anton/Документы/python/input/xls/реестр_02.11.xls
+/home/anton/Документы/python/input/xls/перечень молоко сентябрь 2016.xls
+/home/anton/Документы/python/input/xls/271с8 Инв. жив. до 15, МОЛОЧН скот.xls
+/home/anton/Документы/python/input/xls/Информация Сады Придонья.xls
+/home/anton/Документы/python/input/xls/212 от 26 мая 2017 Инв. жив. до 8, свинокомплексы ТОП.xls
+/home/anton/Документы/python/input/xls/Реестр_62_22.04.2019.xls
+/home/anton/Документы/python/input/xls/Информация о получателях субсидии р-р 190Ф197R.xls
+/home/anton/Документы/python/input/xls/200Ф Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/213-8 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/195Ф+210R от 26 мая 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/реестр_21.12.18.xls
+/home/anton/Документы/python/input/xls/198Ф207R.xls
+/home/anton/Документы/python/input/xls/20.07_страхование.xls
+/home/anton/Документы/python/input/xls/042Ф+055R от 15.03.2018 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/167Ф+175R от 11 мая 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Получатели субсидий по %ст. МФХ_РСХБ_период ИЮЛЬ 2014.xls
+/home/anton/Документы/python/input/xls/на сайт информация о получателях субсидии  за реализованную продукцию животноводства (2).xls
+/home/anton/Документы/python/input/xls/Реестр _ кредиты 06.07.xls
+/home/anton/Документы/python/input/xls/Информация от 16 06 2017.xls
+/home/anton/Документы/python/input/xls/З45Ф+388R от 21.09.2017 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/Информация для сайта (раст-во) к реестру 312Ф-344R от 05 09 2017.xls
+/home/anton/Документы/python/input/xls/326Ф+357R от 08 сентября 2017 Инв  жив  до 8 проч (2013).xls
+/home/anton/Документы/python/input/xls/215со Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/Информация ОБ племка молочная.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 587 от 06.10.16 Инв. мяс..xls
+/home/anton/Документы/python/input/xls/139Ф+ 220 от 20.05.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/апрель 2016 на сайт.xls
+/home/anton/Документы/python/input/xls/информация 8ка животноводство.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 490 от 19.08.16 Инв.раст. до 10,, проч.xls
+/home/anton/Документы/python/input/xls/330с8 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр корма 03.07.xls
+/home/anton/Документы/python/input/xls/108Ф+115R от 27 марта 2017 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/448 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/156Ф+163R от 28 апреля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/181Ф+186R от 20.04.2018 Инв. раст. до 8, проч (2013)ЗАРЯ+.xls
+/home/anton/Документы/python/input/xls/243 Ф Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/213Ф+231R от 15 июня 2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/325Ф+356R от 08 сентября 2017 Инв  жив  до 8 проч.xls
+/home/anton/Документы/python/input/xls/371Ф+431R от 19.10.2017 Инв. раст. до 8, проч (2013) ЗАРЯ 241.xls
+/home/anton/Документы/python/input/xls/Информация  племка мясная приобретение (Губин).xls
+/home/anton/Документы/python/input/xls/перечень 426Ф_7.xls
+/home/anton/Документы/python/input/xls/Информация Чердынцев.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 16.10.2017.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 10.04.2015).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 06.10.2017 1.xls
+/home/anton/Документы/python/input/xls/на сайт август 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/063Ф+076R от 21.03.2018 Инв. раст. до 8, пр 2013.xls
+/home/anton/Документы/python/input/xls/341Ф+384R от 21.09.2017 Инв. раст. до 8, проч 2013 ЗАРЯ 241.xls
+/home/anton/Документы/python/input/xls/246.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 16.04.2015).xls
+/home/anton/Документы/python/input/xls/273Ф+405 от 18.07.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Реестр № 686 R от 23 декабря 2016 Инв. жив. до 8,свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/Информация о получателях субсидии р-р 195Ф204R.xls
+/home/anton/Документы/python/input/xls/реестр_4.xls
+/home/anton/Документы/python/input/xls/Реестр 06.10.xls
+/home/anton/Документы/python/input/xls/194Ф+209R от 26 мая 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/13_ЛПХ.xls
+/home/anton/Документы/python/input/xls/485Ф+614R+615-8_14.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/доп 198 Ф Инв.раст.до8,(2013).xls
+/home/anton/Документы/python/input/xls/273с8 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/лиманы.xls
+/home/anton/Документы/python/input/xls/176Ф+181R от 20.04.2018 Инв. раст до 10, проч+.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 06.07.xls
+/home/anton/Документы/python/input/xls/355со Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/июль 2016 ОСБ на сайт.xls
+/home/anton/Документы/python/input/xls/Мол_спец_13.04.xls
+/home/anton/Документы/python/input/xls/на сайт сентябрь 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/118 Ф Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/03.05_молспецы.xls
+/home/anton/Документы/python/input/xls/314Ф + 465 от 15.08.16 (мол.скот).xls
+/home/anton/Документы/python/input/xls/Инфа по элитным семенам на 21.07.2015.2.xls
+/home/anton/Документы/python/input/xls/ОБ (8) НА САЙТ.xls
+/home/anton/Документы/python/input/xls/Информация племка молочная ФБ Ап.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 07.08.2017.xls
+/home/anton/Документы/python/input/xls/218с8 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/107_1Ф+114_1R от 27 марта 2017 Инв  раст  до 10 проч.xls
+/home/anton/Документы/python/input/xls/толькоR 441со Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/277Ф+297R от 24 июля 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/432со Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/482Ф+608R+609-8_13.12.18_Инв.раст_с01.08.15.xls
+/home/anton/Документы/python/input/xls/397Ф+474R+482-8 от 26.10.2018 Инв жив до 15, молочн ПЗК .xls
+/home/anton/Документы/python/input/xls/Размещение 288Ф+310R от 08 августа 2017 Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/247Ф + 361 от 04.07.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Размещение 243Ф+264R от 10 июля 2017 Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/437-8 Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/364 Ф Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/129ф_раст.xls
+/home/anton/Документы/python/input/xls/416Ф+487R от 22 11 2017 Инв  раст до10 проч.xls
+/home/anton/Документы/python/input/xls/057Ф+070R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/403Ф +ОБ от 28 10 16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Размещение 452 от 04.10.18 - молоко.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 12.05.2017.xls
+/home/anton/Документы/python/input/xls/+на сайт молоко 215(8) от 29.05.17.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 41Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/Размещение 194Ф + 203R от 07.05.2018 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/Перерасчет_04_05.xls
+/home/anton/Документы/python/input/xls/402Ф+474R от 20 11 2017 Инв  раст до8 проч (2013).xls
+/home/anton/Документы/python/input/xls/перечень_257_живОБ.xls
+/home/anton/Документы/python/input/xls/657 R от 06 декабря 2016 Инв. жив. до 15, МЯСН.xls
+/home/anton/Документы/python/input/xls/117Ф+124R от 29 марта 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 13.06.2017.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 505 от 25.08.16 Инв.жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/262 Ф Инв. раст до 10, проч.xls
+/home/anton/Документы/python/input/xls/Размещение 308Ф + 333R от 23.08.2017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/518 от 29.08.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/062Ф+075R от 21.03.2018 Инв. раст. до 8, пр 2013.xls
+/home/anton/Документы/python/input/xls/на сайт октябрь 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/Реестр_076Ф_19.04.2019.xls
+/home/anton/Документы/python/input/xls/Реестр племка молочная Айтакс ОБ и ФБ.xls
+/home/anton/Документы/python/input/xls/188 от 29.04.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/08.06_реестр.xls
+/home/anton/Документы/python/input/xls/96Ф205R.xls
+/home/anton/Документы/python/input/xls/август 2016 ОСБ на сайт.xls
+/home/anton/Документы/python/input/xls/Размещение 452Ф + 533R от 18.12.2017 Инв. жив.xls
+/home/anton/Документы/python/input/xls/394с8 Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Реестр_23.xls
+/home/anton/Документы/python/input/xls/перечень_289растОБ_3.xls
+/home/anton/Документы/python/input/xls/227 Ф Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр_67_22.04.2019 С СЕНТ.xls
+/home/anton/Документы/python/input/xls/269с8 Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр № 679 R от 22 декабря 2016 Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/Информация на сайт ФБ-НФ 2017 г  4.xls
+/home/anton/Документы/python/input/xls/28-8_15.03.19 Инв.раст.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 07 11 2017.xls
+/home/anton/Документы/python/input/xls/420Ф+497R от 29 11 2017 Инв  жив  до 8 свинокомп ТопАгро 139.xls
+/home/anton/Документы/python/input/xls/Перечень получателей_14.07.xls
+/home/anton/Документы/python/input/xls/Восьмерка Информ на сайт прием с 10 03 2017 по 20 03 2017.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 43Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/263 Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Размещение восток.xls
+/home/anton/Документы/python/input/xls/11.04_озимые_страх.xls
+/home/anton/Документы/python/input/xls/Реестр получателей Суровикинский.xls
+/home/anton/Документы/python/input/xls/Размещение 448Ф + 529R от 18.12.2017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/+на сайт молоко 216(8) от 29.05.2017.xls
+/home/anton/Документы/python/input/xls/485-8 от 26.10.2018 Инв Кр за 2017 год (на 01.07.207) .xls
+/home/anton/Документы/python/input/xls/305 Ф Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/427Ф+508R от 06 12 2017 Инв  раст  до 8 проч.xls
+/home/anton/Документы/python/input/xls/01.04_молспец.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 14.07.2017.xls
+/home/anton/Документы/python/input/xls/Перерасчет_ФБ_04.xls
+/home/anton/Документы/python/input/xls/10.12_восток.xls
+/home/anton/Документы/python/input/xls/84Ф+76_от_13.05.2019.xls
+/home/anton/Документы/python/input/xls/472Ф+584R+586-8_07.12.18_Инв.раст.xls
+/home/anton/Документы/python/input/xls/94Ф + 174 от 22.04.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Реестр_Эл_4.xls
+/home/anton/Документы/python/input/xls/Информация племка мясная.xls
+/home/anton/Документы/python/input/xls/323Ф_1.xls
+/home/anton/Документы/python/input/xls/Реестр Эл.xls
+/home/anton/Документы/python/input/xls/147Ф+149R от 18 апреля 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 20 11 2017.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 12.02.2015).xls
+/home/anton/Документы/python/input/xls/молспец_02.10.xls
+/home/anton/Документы/python/input/xls/Реестр Эл 7.xls
+/home/anton/Документы/python/input/xls/Информация Серова.xls
+/home/anton/Документы/python/input/xls/395с8 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Ивановское СП Еланского района на сайт.xls
+/home/anton/Документы/python/input/xls/Реестр корма для Молокановой.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 19 06 2017.xls
+/home/anton/Документы/python/input/xls/+на сайт молоко 217(8) от 29.05.2017.xls
+/home/anton/Документы/python/input/xls/Информация Зерновик.xls
+/home/anton/Документы/python/input/xls/Информация Пак 1.xls
+/home/anton/Документы/python/input/xls/340Ф+517 от 29.08.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/декабрь на сайт 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/Размещение 242Ф+263R от 10 июля 2017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/На СайтБ.xls
+/home/anton/Документы/python/input/xls/386Ф+594 от 17 10 16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Информация от 10.01.2018.xls
+/home/anton/Документы/python/input/xls/219 от 20.05.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/ноябрь_ФБ.xls
+/home/anton/Документы/python/input/xls/118Ф+125R от 29 марта 2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Информация Междуреченское.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР_Михайловка_с.Сидоры_на сайт.xls
+/home/anton/Документы/python/input/xls/290_1Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Размещение на сайте 14.06.2017.xls
+/home/anton/Документы/python/input/xls/Реестр___кредиты_09.xls
+/home/anton/Документы/python/input/xls/421Ф+498R от 29 11 2017 Инв  раст  до 8 проч 2013.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 12.10.2017.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 40Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/425-8 Инв. раст. до 8, проч (2013) АК Волжский.xls
+/home/anton/Документы/python/input/xls/291_1Ф Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Реестр_№5.xls
+/home/anton/Документы/python/input/xls/иформация по 299.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 07.07.2017.xls
+/home/anton/Документы/python/input/xls/412со Инв.жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 20.10.2017.xls
+/home/anton/Документы/python/input/xls/374Ф+434R от 19.10.2017 Инв. жив. до 8, свинокомпл.xls
+/home/anton/Документы/python/input/xls/Реестр № 433 Ф от 27 декабря 2016 Инв. раст. до8, проч (2013).xls
+/home/anton/Документы/python/input/xls/449 Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/302 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Журавское на сайт.xls
+/home/anton/Документы/python/input/xls/391со Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/август_21.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 08 12 2017.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ(R) 13.11.xls
+/home/anton/Документы/python/input/xls/Реестр_075Ф_19.04.2019.xls
+/home/anton/Документы/python/input/xls/393Ф+465R от 09.11.2017 Инв. раст. до 8, проч (2013 г.).xls
+/home/anton/Документы/python/input/xls/327Ф+358R от 08 сентября 2017 Инв  раст  до 8 проч (2013) ЗАРЯ 241.xls
+/home/anton/Документы/python/input/xls/реестр 296.xls
+/home/anton/Документы/python/input/xls/303Ф +445 от 03.08.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 16 08 2017 (2).xls
+/home/anton/Документы/python/input/xls/январь_21.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 42Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/363 от 04.07.16 ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/ВОЗВРАТЫ_2015_ФБ.xls
+/home/anton/Документы/python/input/xls/Информация Алимов ВолгоДонАгро.xls
+/home/anton/Документы/python/input/xls/101Ф + 186 от 28.04.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 06.12.2017.xls
+/home/anton/Документы/python/input/xls/Реестр_корма_29.07.xls
+/home/anton/Документы/python/input/xls/Размещение 304Ф + 329R от 18.08.2017 Инв.жив. до 8, свинокомплексы.xls
+/home/anton/Документы/python/input/xls/219с8 Инв. раст. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Реестр_072Ф_19.04.2019.xls
+/home/anton/Документы/python/input/xls/575со Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/Информация от 09.10.2018.xls
+/home/anton/Документы/python/input/xls/Информация от 13 04 2017.xls
+/home/anton/Документы/python/input/xls/ТолькоR 440_1R Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/перечень_21.xls
+/home/anton/Документы/python/input/xls/Перечень молоко август 2016.xls
+/home/anton/Документы/python/input/xls/420со Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/419со Инв. жив. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Размещение 451Ф + 532R от 18.12.2017 Инв. молоко.xls
+/home/anton/Документы/python/input/xls/Информация от 20.02.xls
+/home/anton/Документы/python/input/xls/Реестр_073Ф_19.04.2019.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 17.05.2017.xls
+/home/anton/Документы/python/input/xls/Размещение 246Ф+267R от 10 июля 2017 Инв.раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/229 Ф Инв. раст. до 10, прочие.xls
+/home/anton/Документы/python/input/xls/307 Ф Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 11.12.2017.xls
+/home/anton/Документы/python/input/xls/34(8)_22.03.2019_Инв. раст.xls
+/home/anton/Документы/python/input/xls/060Ф+073R от 21.03.2018 Инв. раст. до 8, пр 2013.xls
+/home/anton/Документы/python/input/xls/406_ОБ(перераб).xls
+/home/anton/Документы/python/input/xls/197Ф206R.xls
+/home/anton/Документы/python/input/xls/Реестр 2016 Матышево на сайт.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 21.04.2015).xls
+/home/anton/Документы/python/input/xls/Перечень получателей _673ф_434 2015.xls
+/home/anton/Документы/python/input/xls/Информация для сайта (раст-во) к реестру 315Ф-347R от 06 09 2017.xls
+/home/anton/Документы/python/input/xls/Реестр_61_22.04.2019 ЗАРЯ.xls
+/home/anton/Документы/python/input/xls/483Ф+610R+611-8_13.12.18_Инв.жив_15.xls
+/home/anton/Документы/python/input/xls/информация 8ка животноводство на 11.07.2017..xls
+/home/anton/Документы/python/input/xls/239 Ф Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/Информация Серова декабрь.xls
+/home/anton/Документы/python/input/xls/перечень_236_растОБ_1.xls
+/home/anton/Документы/python/input/xls/158Ф+165R от 28 апреля 2017 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/56Ф.xls
+/home/anton/Документы/python/input/xls/454со Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Размещение 187 от 20 04 18 - молоко.xls
+/home/anton/Документы/python/input/xls/260 Ф Инв. жив. до 8, МЯСН.xls
+/home/anton/Документы/python/input/xls/На сайт.xls
+/home/anton/Документы/python/input/xls/11.12_реестр_вос.xls
+/home/anton/Документы/python/input/xls/Получатели субсидий по %ст.МФХ_РСХБ_период_ИЮНЬ 2016.xls
+/home/anton/Документы/python/input/xls/Информация Иванов.xls
+/home/anton/Документы/python/input/xls/р-р 450 от 23.10.17.xls
+/home/anton/Документы/python/input/xls/177Ф+182R от 20.04.2018 Инв. жив. до 15, МОЛОКО+.xls
+/home/anton/Документы/python/input/xls/259Ф_5_1.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 474 от 17.08.16 Инв.жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/28.11_реестр_лидер.xls
+/home/anton/Документы/python/input/xls/24_сад_2.xls
+/home/anton/Документы/python/input/xls/Размещение 301Ф + 326R от 18.08.2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/255Ф+378 от 12.07.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Информация Алимов доплата.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта к р-ру от 11.05.2017 (жив-во).xls
+/home/anton/Документы/python/input/xls/Инф для сайта яровые 2015 (к реестру 13.07.2015).xls
+/home/anton/Документы/python/input/xls/290 Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/элитка1.xls
+/home/anton/Документы/python/input/xls/568Ф_мол_скот.xls
+/home/anton/Документы/python/input/xls/Реестр № 683 R от 23 декабря 2016 Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/346Ф+389R от 25.09.2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/398Ф+ 613 от 24 10 16 (раст-во).xls
+/home/anton/Документы/python/input/xls/414со Инв. жив. до 8, свинокомп Топ.xls
+/home/anton/Документы/python/input/xls/информация лизинг 24.10.xls
+/home/anton/Документы/python/input/xls/на сайт июль 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/197Ф+213R от 26 мая 2017 Инв. жив. до 15, МОЛОКО.xls
+/home/anton/Документы/python/input/xls/перечень_372Ф_2.xls
+/home/anton/Документы/python/input/xls/Реестр___№3.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 16.08.2017.xls
+/home/anton/Документы/python/input/xls/279 Ф Инв. жив. до 8, свинокомп Топ.xls
+/home/anton/Документы/python/input/xls/Информация Пак.xls
+/home/anton/Документы/python/input/xls/379_раст.xls
+/home/anton/Документы/python/input/xls/401 Ф от 26 октября 2016 Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/Размещение 222Ф+242R от 20 июня 2017 Инв  раст  до 8 прочие (2013).xls
+/home/anton/Документы/python/input/xls/353Ф_2.xls
+/home/anton/Документы/python/input/xls/265Ф+285R от 19 июля 2017 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 13.11.2017.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 321ф от 17.08.16 Инв. жив. до 8, свин.xls
+/home/anton/Документы/python/input/xls/356со Инв.раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/050Ф+063R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/На сайт ОБ Захарова.xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 14.04.2015).xls
+/home/anton/Документы/python/input/xls/Реестр_074Ф_19.04.2019.xls
+/home/anton/Документы/python/input/xls/305со Инв. жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Информация от 10 05 2017.xls
+/home/anton/Документы/python/input/xls/471Ф+583R+585-8+587-8_07.12.18_Инв.жив.xls
+/home/anton/Документы/python/input/xls/Размещение Мясников.xls
+/home/anton/Документы/python/input/xls/542Ф_раст.xls
+/home/anton/Документы/python/input/xls/254Ф+376 от 12.07.16  ОБ(молКРС).xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Большевистское сп на сайт.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 24.05.2017.xls
+/home/anton/Документы/python/input/xls/24_сад_1.xls
+/home/anton/Документы/python/input/xls/Реестр_эл_15_сайт.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 36Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Краишевское Еланский на сайт.xls
+/home/anton/Документы/python/input/xls/109Ф+198 от 06.05.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/480-8 от 26.10.2018 Инв жив до 8, свинокомп 162-10.xls
+/home/anton/Документы/python/input/xls/Перечень получателей ______ф_______от 04.07.2017.xls
+/home/anton/Документы/python/input/xls/Информация на сайт ОБ-НФ 2017 г  4.xls
+/home/anton/Документы/python/input/xls/362_от_03.11.15_(мол.скот).xls
+/home/anton/Документы/python/input/xls/Инф для сайта озимые 2014 (к реестру 08.04.2015).xls
+/home/anton/Документы/python/input/xls/Размещение 541 от 20.12.2017 Инв. жив.xls
+/home/anton/Документы/python/input/xls/на сайт_28.08.xls
+/home/anton/Документы/python/input/xls/1 информация ООО Сады Придонья декабрь.xls
+/home/anton/Документы/python/input/xls/на сайт область 2015.xls
+/home/anton/Документы/python/input/xls/322Ф+353R от 08 сентября 2017 Инв  раст  до 8 проч.xls
+/home/anton/Документы/python/input/xls/на сайт май 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/Реестр № 688-8 от 23 декабря 2016 Инв. жив. до 8,свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/405Ф+477R от 20 11 2017 Инв  раст до10 проч.xls
+/home/anton/Документы/python/input/xls/Копия 288Ф +ОБ от 25.07.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ (R) 11.12.xls
+/home/anton/Документы/python/input/xls/перечень 389Ф_6.xls
+/home/anton/Документы/python/input/xls/перечень 471Ф_9.xls
+/home/anton/Документы/python/input/xls/Информация по реестру 376 от 10.08.2018.xls
+/home/anton/Документы/python/input/xls/реестр_08.08.18.xls
+/home/anton/Документы/python/input/xls/февраль на сайт 2016 ОБ.xls
+/home/anton/Документы/python/input/xls/Информация для сайта 337Ф-380R от 15 09 2017 (м с ).xls
+/home/anton/Документы/python/input/xls/Реестр_%_№3.xls
+/home/anton/Документы/python/input/xls/Информация о получателях субсидии р-р 191Ф198R.xls
+/home/anton/Документы/python/input/xls/169Ф+177R от 11 мая 2017 Инв. жив. до 15, МОЛОКО!! ПЗК Ленина.xls
+/home/anton/Документы/python/input/xls/Информация Карповский.xls
+/home/anton/Документы/python/input/xls/реестр_06_11_2015.xls
+/home/anton/Документы/python/input/xls/июль_2014.xls
+/home/anton/Документы/python/input/xls/Реестр № 429 Ф от 23 декабря 2016 Инв. жив. до 8, свинокомп.xls
+/home/anton/Документы/python/input/xls/ДЛЯ РАЗМЕЩЕНИЯ НА САЙТЕ ОВЦЫ.xls
+/home/anton/Документы/python/input/xls/толькоR 440со Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/ОБ 314Ф + 465 от 15.08.16 (мол.скот).xls
+/home/anton/Документы/python/input/xls/336Ф+379R от 15 сентября 2017 Инв  жив  до 15 МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Алявское СП Еланского на сайт.xls
+/home/anton/Документы/python/input/xls/ФБ+ОБ 13.10.xls
+/home/anton/Документы/python/input/xls/информация 8ка животноводство на 11.07.2017 по 123ф.xls
+/home/anton/Документы/python/input/xls/116Ф+123R от 29 марта 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Реестр_071Ф_19.04.2019 ЗАРЯ.xls
+/home/anton/Документы/python/input/xls/209 от 13.05.16 ОБ(жив).xls
+/home/anton/Документы/python/input/xls/РЕЕСТР МОРЕЦКОЕ Елань на сайт.xls
+/home/anton/Документы/python/input/xls/Информация на сайт.xls
+/home/anton/Документы/python/input/xls/13.12_реестр.xls
+/home/anton/Документы/python/input/xls/28.05_РПЖ.xls
+/home/anton/Документы/python/input/xls/24.12_сады_мели.xls
+/home/anton/Документы/python/input/xls/175Ф+180R от 20.04.2018 Инв. раст. до 8, проч (2013)+.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 21.12.2017.xls
+/home/anton/Документы/python/input/xls/РР 329 от 26.06.2018.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта лизинг 18.08.2017.xls
+/home/anton/Документы/python/input/xls/121Ф+128R от 29 марта 2017 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/307с8 Инв. жив. до 15, МОЛОЧН скот.xls
+/home/anton/Документы/python/input/xls/уточн278 Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/24.12_реестр.xls
+/home/anton/Документы/python/input/xls/422 Ф от 06 декабря 2016 Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/398Ф+475R+483-8 от 26.10.2018 Инв жив до 15, молочн.xls
+/home/anton/Документы/python/input/xls/декабрь_21.xls
+/home/anton/Документы/python/input/xls/Размещение реестр № 45Ф от 26.03.2019.xls
+/home/anton/Документы/python/input/xls/Реестр 19.11.2015.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 336ф от 24.08.16 Инв. мол..xls
+/home/anton/Документы/python/input/xls/394Ф+471R+478-8 от 26.10.2018 Инв жив до 8, проч ПФ.xls
+/home/anton/Документы/python/input/xls/10.05.2018_МС.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 16.06.2017.xls
+/home/anton/Документы/python/input/xls/реестр_07.09.xls
+/home/anton/Документы/python/input/xls/ноябрь_21.xls
+/home/anton/Документы/python/input/xls/418Ф+489R от 22 11 2017 Инв  жив до15 МОЛОКО ПЗКjr.xls
+/home/anton/Документы/python/input/xls/Реестр № 434 Ф от 27 декабря 2016 Инв. жив. до 15, МОЛОЧН.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 21.07.2017.xls
+/home/anton/Документы/python/input/xls/Информация Донское.xls
+/home/anton/Документы/python/input/xls/инф 04.09_1.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР Вязовское на сайт.xls
+/home/anton/Документы/python/input/xls/204Ф + 296 от 14.06.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Информация о получателях субсидии р-р 187Ф194R.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта к р-ру 317A-349R от 07 09 2017 (жив).xls
+/home/anton/Документы/python/input/xls/244 Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 21.11.2017.xls
+/home/anton/Документы/python/input/xls/211Ф+229R от 15 июня 2017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/Размещение 299Ф + 324R от 18..082017 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/575Ф_раст.xls
+/home/anton/Документы/python/input/xls/282 Ф Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Реестр № 678 R от 22 декабря 2016 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/32(8)_22.03.2019_Инв. раст.xls
+/home/anton/Документы/python/input/xls/Инфа по многолетнисм насаждениям.xls
+/home/anton/Документы/python/input/xls/Инфо р-р 338 ф от 25.08.16 Инв.жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/реестр_07.11.xls
+/home/anton/Документы/python/input/xls/Инф-ция (раст-во) 09 11 2017.xls
+/home/anton/Документы/python/input/xls/26-8_15.03.19 Инв.раст.xls
+/home/anton/Документы/python/input/xls/21_04_страхование.xls
+/home/anton/Документы/python/input/xls/Реестр Эл 2 для Молокановой.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 06.06.2017.xls
+/home/anton/Документы/python/input/xls/Размещение 292Ф + 312R от 19.06.2018 Инв. раст. до 8, прочие (2013).xls
+/home/anton/Документы/python/input/xls/297 от 10.04.16 ОБ(жив).xls
+/home/anton/Документы/python/input/xls/ПЕРЕРАСЧЕТ_01_3.xls
+/home/anton/Документы/python/input/xls/378_перераб.xls
+/home/anton/Документы/python/input/xls/Размещение 244Ф+265R от 10 июля 2017 Инв.жив. до 8, прочие.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 18.10.2017.xls
+/home/anton/Документы/python/input/xls/Копия декабрь на сайт 2015 ФБ.xls
+/home/anton/Документы/python/input/xls/Размещение 303A + 328R от 18.08.2017 Инв.жив. до 8, прочие (с 2013).xls
+/home/anton/Документы/python/input/xls/МАЙ.xls
+/home/anton/Документы/python/input/xls/535 R Инв. жив. до 8, проч.xls
+/home/anton/Документы/python/input/xls/Мол_специалисты_16.05.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 17.07.2017.xls
+/home/anton/Документы/python/input/xls/291 Ф Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/мол_спец_24.01 (1).xls
+/home/anton/Документы/python/input/xls/Размещение 450Ф + 531R от 18.12.2017 Инв. раст. до 10.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 10.10.2017.xls
+/home/anton/Документы/python/input/xls/567Ф_жив.xls
+/home/anton/Документы/python/input/xls/Размещение на сайт по 8.xls
+/home/anton/Документы/python/input/xls/Реестр № 677 R от 22 декабря 2016 Инв. раст. до 10, прочие+.xls
+/home/anton/Документы/python/input/xls/на сайт апрель 2015 ОБ.xls
+/home/anton/Документы/python/input/xls/417с8 Инв. раст. до 10, проч.xls
+/home/anton/Документы/python/input/xls/Информация ООО ЛИДЕР декабрь.xls
+/home/anton/Документы/python/input/xls/Информация Ким.xls
+/home/anton/Документы/python/input/xls/238Ф + 334 от 27.06.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/Реестр_64_22.04.2019.xls
+/home/anton/Документы/python/input/xls/052Ф+065R от 16.03.2018 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/61Ф.xls
+/home/anton/Документы/python/input/xls/Информация для сайта 330Ф-373R от 13 09 2017 (раст-во).xls
+/home/anton/Документы/python/input/xls/117Ф + 208 от 13.05.16 (раст-во).xls
+/home/anton/Документы/python/input/xls/044Ф+057R от 15.03.2018 Инв. раст. до 8, проч (2013).xls
+/home/anton/Документы/python/input/xls/343Ф+386R от 21.09.2017 Инв. раст. до 8, проч 2013.xls
+/home/anton/Документы/python/input/xls/перечень 427Ф_8.xls
+/home/anton/Документы/python/input/xls/Реестр Эл 8.xls
+/home/anton/Документы/python/input/xls/РСХБ_октябрь.xls
+/home/anton/Документы/python/input/xls/335 Инв. жив. до 8, свинокомп ТОП.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 05.06.2017.xls
+/home/anton/Документы/python/input/xls/Реестр № 676 R от 22 декабря 2016 Инв. раст. до 8, прочие+.xls
+/home/anton/Документы/python/input/xls/Реестр (рыбоводство).xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (раст-во) 20.09.2017.xls
+/home/anton/Документы/python/input/xls/186Ф+200R от 24 мая 2017 Инв. раст. до 10, проч+.xls
+/home/anton/Документы/python/input/xls/Инф-ция для сайта (живот-во) 7.12.2017.xls
+/home/anton/Документы/python/input/xls/РЕЕСТР х.Захоперский на сайт.xls
+/home/anton/Документы/python/input/xls/Реестр Дубовское СП Еланского МР на сайт.xls
+/home/anton/Документы/python/input/xls/120Ф+127R от 29 марта 2017 Инв. раст. до 8, проч.xls
+/home/anton/Документы/python/input/xls/477Ф+598R+599-8_12.12.18_Инв.раст.xls
